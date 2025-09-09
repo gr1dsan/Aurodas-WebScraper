@@ -1,4 +1,4 @@
-# **Aurodas Web Scraper**
+**Aurodas Web Scraper**
 
 A **web scraper** for rental listings from [Aruodas](https://en.aruodas.lt/butu-nuoma/kaune/), built using **Python**, **Playwright**, and **BeautifulSoup**.  
 This project collects detailed property information, including prices, area, rooms, building details, and more, and saves it to a **CSV file**.
